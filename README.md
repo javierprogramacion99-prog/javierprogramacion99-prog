@@ -58,7 +58,7 @@ javierprogramacion99-prog@github:~$ cat stack.config
 OS:          macOS
 Languages:   Python
 Automation:  n8n
-Research:    Patent monitoring, Trend analysis
+Research:    Trend analysis
 Finance:     Crypto markets, Tech sector analysis
 Tools:       GitHub, Notion, Google Play Console
 ```
