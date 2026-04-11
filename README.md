@@ -108,12 +108,6 @@ Tools:       GitHub, Notion, Google Play Console
 
 ---
 
-```
-System running since: 1999
-Current focus:        Building things that matter.
-Motto:                "Detectar oportunidades. Automatizar procesos. Crear impacto."
-javierprogramacion99-prog@github:~$ █
-```
 
 ---
 <div align="center">
