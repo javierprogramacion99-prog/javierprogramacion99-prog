@@ -43,7 +43,6 @@ javierprogramacion99-prog@github:~$ ./skills --matrix
 ║  Python                     [███████████░░░░░]  70%      ║
 ║  Detección de tendencias    [████████████████]  95%      ║
 ║  Desarrollo de productos    [█████████████░░░]  82%      ║
-║  Monitoreo de patentes      [███████████░░░░░]  72%      ║
 ║  Crypto & finanzas tech     [████████████░░░░]  78%      ║
 ║  Automatización de ideas    [████████████████]  90%      ║
 ╚══════════════════════════════════════════════════════════╝
