@@ -7,17 +7,9 @@
  ╚════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-```bash
-javierprogramacion99-prog@github:~$ whoami
-```
-
 > 🧠 Entusiasta de la tecnología & creador de productos digitales.
 > Enfocado en **automatización de flujos de trabajo**, **análisis de mercado tech** y **detección de oportunidades de negocio**.
 > Fundador de **4free** — la app que te permite regalar y ayudar. Sin vueltas.
-
-```bash
-javierprogramacion99-prog@github:~$ cat status.log
-```
 
 ```
 [SYSTEM]  Booting profile...                          [OK]
@@ -30,9 +22,6 @@ javierprogramacion99-prog@github:~$ cat status.log
 
 ---
 
-```bash
-javierprogramacion99-prog@github:~$ ./skills --matrix
-```
 
 ```
 ╔══════════════════════════════════════════════════════════╗
@@ -76,10 +65,6 @@ Tools:       GitHub, Notion, Google Play Console
 
 ---
 
-```bash
-javierprogramacion99-prog@github:~$ cat current_research.md
-```
-
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║               [ CURRENT RESEARCH LOG ]                   ║
@@ -94,10 +79,6 @@ javierprogramacion99-prog@github:~$ cat current_research.md
 
 ---
 
-```bash
-javierprogramacion99-prog@github:~$ cat n8n_workflows.log
-```
-
 ```
 [WORKFLOW_01]  Market alert automation          [ACTIVE]
 [WORKFLOW_02]  Patent monitoring pipeline       [ACTIVE]
@@ -107,10 +88,6 @@ javierprogramacion99-prog@github:~$ cat n8n_workflows.log
 ```
 
 ---
-
-```bash
-javierprogramacion99-prog@github:~$ ./contact --list
-```
 
 ```
 ╔══════════════════════════════════════════════════════════╗
@@ -130,10 +107,6 @@ javierprogramacion99-prog@github:~$ ./contact --list
 [![Google Play](https://img.shields.io/badge/Google_Play-4free-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tuapp.4free)
 
 ---
-
-```bash
-javierprogramacion99-prog@github:~$ uptime
-```
 
 ```
 System running since: 1999
