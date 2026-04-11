@@ -50,9 +50,6 @@ javierprogramacion99-prog@github:~$ ./skills --matrix
 
 ---
 
-```bash
-javierprogramacion99-prog@github:~$ cat stack.config
-```
 
 ```yaml
 OS:          macOS
@@ -64,10 +61,6 @@ Tools:       GitHub, Notion, Google Play Console
 ```
 
 ---
-
-```bash
-javierprogramacion99-prog@github:~$ ls ./projects/
-```
 
 ### 📦 `4free/`
 > La app que conecta a personas que quieren regalar con personas que necesitan.
