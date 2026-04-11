@@ -73,7 +73,7 @@ javierprogramacion99-prog@github:~$ ls ./projects/
 > La app que conecta a personas que quieren regalar con personas que necesitan.
 > Simple, directo, sin vueltas.
 
-[![Get it on Google Play](https://img.shields.io/badge/Google_Play-4free-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tuapp.4free)
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-4free-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.marketplace.forfree)
 
 ```
 [STATUS]  Live on Google Play                         [✓ DEPLOYED]
