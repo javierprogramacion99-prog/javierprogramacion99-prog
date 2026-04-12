@@ -7,7 +7,7 @@
  ╚════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-> 🧠 Entusiasta de la tecnología & creador de productos digitales.
+> 🧠 Entusiasta de la tecnología.
 > Enfocado en **automatización de flujos de trabajo** y **creacion de productos digitales**.
 > Fundador de **4free** — la app que te permite crear comunidad. Sin vueltas.
 
