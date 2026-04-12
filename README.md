@@ -51,7 +51,7 @@ Tools:       GitHub, Notion, Google Play Console
 ---
 
 ### 📦 `4free/`
-> La app que conecta a personas que quieren entregar con personas que lo quieren.
+> La app que conecta a personas que quieren entregar.
 > Simple, directo, sin vueltas.
 
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-4free-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.marketplace.forfree)
