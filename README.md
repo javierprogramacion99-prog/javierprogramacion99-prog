@@ -90,7 +90,7 @@ Tools:       GitHub, Notion, Google Play Console
 ```
 
 [![YouTube](https://img.shields.io/badge/YouTube-Javier_inv-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Javier.Inversiones)
-[![Instagram](https://img.shields.io/badge/Instagram-javierprogramacion99-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javier.inv/)
+[![Instagram](https://img.shields.io/badge/Instagram-javier.inv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javier.inv/)
 [![Google Play](https://img.shields.io/badge/Google_Play-4free-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.marketplace.forfree)
 ---
 
