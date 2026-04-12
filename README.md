@@ -8,8 +8,8 @@
 ```
 
 > 🧠 Entusiasta de la tecnología & creador de productos digitales.
-> Enfocado en **automatización de flujos de trabajo**, **análisis de mercado tech** y **detección de oportunidades de negocio**.
-> Fundador de **4free** — la app que te permite regalar y ayudar. Sin vueltas.
+> Enfocado en **automatización de flujos de trabajo** y **creacion de productos digitales**.
+> Fundador de **4free** — la app que te permite crear comunidad. Sin vueltas.
 
 ```
 [SYSTEM]  Booting profile...                          [OK]
@@ -28,11 +28,10 @@
 ║                    [ SKILLS MATRIX ]                     ║
 ╠══════════════════════════════════════════════════════════╣
 ║  Automatización (n8n)       [████████████░░░░]  80%      ║
-║  Análisis de mercado tech   [██████████████░░]  88%      ║
 ║  Python                     [███████████░░░░░]  70%      ║
 ║  Detección de tendencias    [████████████████]  95%      ║
 ║  Desarrollo de productos    [█████████████░░░]  82%      ║
-║  Crypto & finanzas tech     [████████████░░░░]  78%      ║
+║  Crypto                     [████████████░░░░]  78%      ║
 ║  Automatización de ideas    [████████████████]  90%      ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -52,7 +51,7 @@ Tools:       GitHub, Notion, Google Play Console
 ---
 
 ### 📦 `4free/`
-> La app que conecta a personas que quieren regalar con personas que necesitan.
+> La app que conecta a personas que quieren entregar con personas que lo quieren.
 > Simple, directo, sin vueltas.
 
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-4free-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.marketplace.forfree)
@@ -64,18 +63,6 @@ Tools:       GitHub, Notion, Google Play Console
 ```
 
 ---
-
-```
-╔══════════════════════════════════════════════════════════╗
-║               [ CURRENT RESEARCH LOG ]                   ║
-╠══════════════════════════════════════════════════════════╣
-║  > Monitoring patent filings in AI & automation sector   ║
-║  > Analyzing emerging trends in no-code/low-code tools   ║
-║  > Tracking crypto market signals & DeFi opportunities   ║
-║  > Evaluating new automation use cases with n8n          ║
-║  > Identifying underserved niches in app markets         ║
-╚══════════════════════════════════════════════════════════╝
-```
 
 ---
 
