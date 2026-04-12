@@ -82,8 +82,8 @@ Tools:       GitHub, Notion, Google Play Console
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
 ║  📱  App        →  4free en Google Play                  ║
-║  🎥  YouTube    →  Javier inv                            ║
-║  📸  Instagram  →  @javierprogramacion99                 ║
+║  🎥  YouTube    →  Javier.inv                            ║
+║  📸  Instagram  →  @javier.inv                           ║
 ║  💻  GitHub     →  javierprogramacion99-prog             ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
