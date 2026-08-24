@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm the best HDP 👋</h1>
+<h1 align="center">Hi there, I'm the best HDP 🤟</h1>
 
 <p align="center">
   Building Web3 tools and mobile products from Chile 🇨🇱<br/>
