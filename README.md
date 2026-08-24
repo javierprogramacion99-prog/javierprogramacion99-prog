@@ -19,11 +19,6 @@
 
 > 🇪🇸 **ForFree** es una app marketplace en Flutter + Firebase para Chile que conecta a personas para dar y recibir cosas gratis. **SELKNAM (SELK)** es su token ERC-20 en Ethereum — inspirado en la identidad del pueblo selk'nam — que impulsa el ecosistema ForFree.
 
-| | |
-|---|---|
-| 🌐 ForFree | [4free.club](https://4free.club) |
-| 🪙 SELKNAM | [selknam.pro](https://selknam.pro) |
-| 🧪 Live dapp demo | [web-4freeclapp-4268s-projects.vercel.app](https://web-4freeclapp-4268s-projects.vercel.app) |
 
 ## 🛠️ Stack
 
@@ -36,23 +31,4 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black" alt="Hardhat"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</p>
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=javierprogramacion99-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierprogramacion99-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javierprogramacion99-prog&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-## 🔗 Connect
-
-<p align="left">
-  <a href="https://x.com/javierdatx"><img src="https://img.shields.io/badge/X-@javierdatx-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://4free.club"><img src="https://img.shields.io/badge/Web-4free.club-14b8a6?style=flat-square&logo=googlechrome&logoColor=white" alt="ForFree site"/></a>
-  <a href="https://selknam.pro"><img src="https://img.shields.io/badge/Web-selknam.pro-f59e0b?style=flat-square&logo=googlechrome&logoColor=white" alt="SELKNAM site"/></a>
 </p>
